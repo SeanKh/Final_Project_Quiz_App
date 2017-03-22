@@ -4,4 +4,6 @@
     <string name="_10_min">10 min</string>
     <string name="_5_min">5 min</string>
     <string name="_20_min">20 min.</string>
+    <string name="add_a_food">add a food</string>
+    <string name="take_quize">take quize</string>
 </resources>

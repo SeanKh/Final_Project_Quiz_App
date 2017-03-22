@@ -34,7 +34,7 @@
         android:id="@+id/maintext"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="You can prepare"
+        android:text="You can prepare:"
         android:layout_marginTop="200dp"
         android:layout_centerHorizontal="true"
         android:textSize="40dp"

@@ -52,7 +52,7 @@
         android:layout_below="@id/maintext"
         android:layout_centerHorizontal="true"
         android:textAllCaps="false"
-        android:text="take quize"
+        android:text="@string/take_quize"
         android:textSize="20sp"
         android:background="@android:color/holo_orange_dark"
         android:textColor="@android:color/white"
@@ -113,11 +113,10 @@
         android:layout_below="@id/thirdmaintext"
         android:layout_centerHorizontal="true"
         android:textAllCaps="false"
-        android:text="add a food"
+        android:text="@string/add_a_food"
         android:textSize="20sp"
         android:background="@android:color/holo_orange_dark"
         android:textColor="@android:color/white"
-        android:onClick="openQuizQuestion"
         android:padding="10dp"
         />
 </RelativeLayout>
