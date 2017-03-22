@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Helper</string>
+    <string name="quiz">Quiz</string>
+    <string name="_10_min">10 min</string>
+    <string name="_5_min">5 min</string>
+    <string name="_20_min">20 min.</string>
+</resources>
